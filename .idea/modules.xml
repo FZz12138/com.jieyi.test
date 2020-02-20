@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/com.jieyi.test.iml" filepath="$PROJECT_DIR$/com.jieyi.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.jieyi.unittest/com.jieyi.unittest.iml" filepath="$PROJECT_DIR$/com.jieyi.unittest/com.jieyi.unittest.iml" />
+    </modules>
+  </component>
+</project>
